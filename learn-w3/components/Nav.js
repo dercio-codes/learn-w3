@@ -14,7 +14,7 @@ export default function Nav() {
         <div style={{
           display: "flex",
           alignItems: "center",
-          justifyContent: "center",
+          justifyContent: "space-evenly",
           minWidth: "100px",
         }}>
         <Home />
